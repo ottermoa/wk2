@@ -1,0 +1,22 @@
+body {
+    background-color: #fff;
+}
+
+h1 {
+    font: bold 4em 'Righteous', cursive;
+    color: #000;
+    text-align: center;
+    animation: appear 1s;
+}
+
+img {
+    /* margin-right: auto;
+    margin-left: auto; */
+    position: fixed;
+    top: 20%;
+    left: 20%;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
